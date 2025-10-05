@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Rocket, Brain, Trophy, Star, Users, Sparkles } from "lucide-react"
 import StarBackground from "@/components/StarBackground"
+  export const dynamic = "force-dynamic";
 
 export default function HomePage() {
   return (
